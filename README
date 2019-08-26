@@ -1,0 +1,11 @@
+KnightTour
+==========
+
+An example in ruby of the famous KnightTour problem (https://en.wikipedia.org/wiki/Knight%27s_tour)
+It gives all possible solutions for a certain board and starting position
+
+Just run
+
+```
+ruby main.rb
+```
